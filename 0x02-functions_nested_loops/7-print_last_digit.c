@@ -6,7 +6,6 @@
   * Description: function prints the last digit of a number
   * Return: integer
   */
-
 int print_last_digit(int n)
 {
 	int last = n % 10;

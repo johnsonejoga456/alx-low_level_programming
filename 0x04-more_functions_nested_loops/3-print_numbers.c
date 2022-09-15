@@ -2,8 +2,10 @@
 
 /**
  * print_numbers - entry point
+ *
  * Description: functions that prints the numbers form 0 to 9
  * followed by a new line
+ *
  * Return: void
  */
 

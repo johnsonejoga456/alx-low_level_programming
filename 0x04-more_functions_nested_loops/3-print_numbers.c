@@ -3,8 +3,7 @@
 /**
  * print_numbers - entry point
  *
- * Description: functions that prints the numbers form 0 to 9
- * followed by a new line
+ * Description: prints the numbers with _putchar
  *
  * Return: void
  */
